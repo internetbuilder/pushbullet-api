@@ -1,4 +1,4 @@
-# PushBullet API
+## PushBullet API
 
 A Node.js module for using the [PushBullet REST API](https://www.pushbullet.com/api).
 
